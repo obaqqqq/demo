@@ -23,10 +23,10 @@ module.exports = {
               ],
               'plugins': [
                 'transform-class-properties'
-              ]
-            }
-          }
-        ]
+              ],
+            },
+          },
+        ],
       },
       {
         test: /.css$/,
@@ -41,7 +41,7 @@ module.exports = {
     // new webpack.optimize.UglifyJsPlugin({ sourceMap: true }),
     new webpack.optimize.AggressiveMergingPlugin(),
     new BrowserSyncPlugin({
-        server: { baseDir: ['./dist'] }
+      server: { baseDir: [ './dist' ] },
     }),
-  ]
-}
+  ],
+};
