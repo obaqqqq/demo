@@ -1,0 +1,199 @@
+body {
+  margin: 0;
+  font-family: 'Hiragino Sans'
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+table {
+  border-spacing: 0;
+}
+
+.content {
+
+}
+
+.header-content {
+  margin: 40px 16px 24px;
+  overflow: auto;
+}
+
+.header-list {
+  float: left;
+}
+.race {
+  color: #454545;
+  font-family: HiraginoSans-W3;
+  font-size: 20px;
+  text-align: center;
+}
+
+.grade {
+  background: #7F7F7F;
+  color: #FFFFFF;
+  font-family: Helvetica;
+  font-size: 14px;
+  height: 24px;
+  text-align: center;
+  width: 50px;
+}
+
+.time-content {
+  margin-left: 24px;
+  position: relative;
+  top: 6px;
+}
+
+.deadline {
+  border-bottom: solid 1px #eee;
+  color: #EC5252;
+  font-size: 14px;
+  height: 24px;
+}
+
+.start {
+  color: #454545;
+  font-size: 14px;
+  margin-top: 7px;
+}
+
+.vote-content {
+  float: right;
+  position: relative;
+  top: 4px;
+}
+
+.vote-button {
+  background: #2DB16D;
+  border-radius: 24px;
+  color: #FFFFFF;
+  font-family: HiraginoSans-W3;
+  font-size: 14px;
+  padding: 11px 30px;
+  text-align: center;
+  display: inline-block;
+}
+
+.boder-line {
+  background-color: #ccc;
+  height: 2px;
+  width: 100%;
+}
+
+.button-content {
+  margin: 16px;
+}
+
+.base-button {
+  padding: 11px 23px;
+  background: #E6E6E6;
+  border-radius: 20px;
+  color: #454545;
+  font-family: HiraginoSans-W6;
+  font-size: 12px;
+  text-align: center;
+  display: inline-block;
+}
+
+.middle-button {
+  margin: 0 6px;
+  padding: 11px 37px;
+}
+
+.last-button {
+  padding: 11px 19px;
+}
+
+
+/* table area */
+
+.table-list {
+  height: 57px;
+}
+
+.table-title {
+  border-bottom: solid #ccc 1px;
+  border-left: solid #ccc 1px;
+  border-top: solid #ccc 1px;
+  color: #454545;
+  font-size: 12px;
+  line-height: 1.2;
+  padding: 0 7px;
+  text-align: center;
+}
+
+.base-title {
+  text-align: left;
+  width: 137px;
+}
+
+.basic-data {
+  font-size: 10px;
+}
+
+.last-title {
+  text-align: center;
+  border-right: solid #ccc 1px;
+  width: 50px;
+}
+
+.table-data-list {
+  height: 57px;
+  font-size: 12px;
+}
+
+.table-data {
+  text-align: center;
+  border-bottom: solid #ccc 1px;
+  border-left: solid #ccc 1px;
+}
+
+.name {
+  text-align: left;
+  padding-left: 5px;
+}
+
+.car-num-1 {
+  background-color: #F5F5F5;
+  color: #333;
+}
+
+.car-num-2 {
+  background-color: #444444;
+  color: #fff;
+}
+.car-num-3 {
+  background-color: #EC5252;
+  color: #fff;
+}
+.car-num-4 {
+  background-color: #42B6E8;
+  color: #fff;
+}
+.car-num-5 {
+  background-color: #FFE000;
+  color: #333;
+}
+.car-num-6 {
+  background-color: #57C735;
+  color: #fff;
+}
+.car-num-7 {
+  background-color: #FF8A42;
+  color: #fff;
+}
+.car-num-8 {
+  background-color: #FF66D0;
+  color: #fff;
+}
+.car-num-9 {
+  background-color: #901AA4;
+  color: #fff;
+}

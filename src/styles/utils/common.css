@@ -1,0 +1,74 @@
+
+/*Safariでヒラギノ角ゴシックをきれいに表示させるCSS*/
+@font-face {
+  font-family: sans-serif;
+  src: local(HiraginoSans-W3);
+  font-weight: normal;
+}
+@font-face {
+  font-family: sans-serif;
+  src: local(HiraginoSans-W6);
+  font-weight: bold;
+}
+/*↓2017.02.14追加*/
+@font-face {
+  font-family: 'Hiragino Kaku Gothic Pro W3';
+  src: local(HiraginoSans-W3);
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'Hiragino Kaku Gothic Pro W3';
+  src: local(HiraginoSans-W6);
+  font-weight: bold;
+}
+/*↑2017.02.14追加*/
+@font-face {
+  font-family: 'ヒラギノ角ゴ Pro W3';
+  src: local(HiraginoSans-W3);
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'ヒラギノ角ゴ Pro W3';
+  src: local(HiraginoSans-W6);
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'ヒラギノ角ゴ ProN W3';
+  src: local(HiraginoSans-W3);
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'ヒラギノ角ゴ ProN W3';
+  src: local(HiraginoSans-W6);
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'ＭＳ Ｐゴシック';
+  src: local(HiraginoSans-W3);
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'ＭＳ Ｐゴシック';
+  src: local(HiraginoSans-W6);
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'MS P Gothic';
+  src: local(HiraginoSans-W3);
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'MS P Gothic';
+  src: local(HiraginoSans-W6);
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'MS PGothic';
+  src: local(HiraginoSans-W3);
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'MS PGothic';
+  src: local(HiraginoSans-W6);
+  font-weight: bold;
+}
